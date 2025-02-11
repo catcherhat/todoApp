@@ -60,6 +60,7 @@ public int getId() {
 		this.username = username;
 	}
 
+	
 	public String getDescription() {
 		return description;
 	}
